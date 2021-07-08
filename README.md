@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### I am Site Reliability Engineer leaning towards the reduction of toil with the help of Automation
+#### I am a Site Reliability Engineer leaning towards the reduction of toil with the help of Automation.
 <!--
 **dfoley84/dfoley84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
